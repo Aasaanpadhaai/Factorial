@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Factorial Test",
+      "setup": "",
+      "run": "python3 fact.py",
+      "input": "5",
+      "expected_output": "120",
+      "comparison": "exact",
+      "timeout": 10
+    }
+  ],
+  "version": 0
+}
